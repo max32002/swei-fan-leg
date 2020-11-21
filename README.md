@@ -1,4 +1,4 @@
-# 獅尾繁腿黑體 Swei Fan Sans
+# 獅尾繁腿黑體 Swei Fan Leg
 
 獅尾繁腿黑體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的簡轉繁字型；可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
