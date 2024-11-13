@@ -40,8 +40,8 @@
 ```
 @font-face {
   font-family: SweiFanLegCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-leg@2.0/WebFont/CJK%20TC/SweiFanLegCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-leg@2.0/WebFont/CJK%20TC/SweiFanLegCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-leg@2.140/WebFont/CJK%20TC/SweiFanLegCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-leg@2.140/WebFont/CJK%20TC/SweiFanLegCJKtc-Regular.woff) format("woff");
 }
 ```
 
